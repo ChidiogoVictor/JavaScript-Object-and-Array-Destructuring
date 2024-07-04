@@ -1,2 +1,5 @@
 # JavaScript-Object-and-Array-Destructuring
-Created with CodeSandbox
+This codes render's destructured Objects and Arrays in a data file
+
+# Technologies
+HTML, CSS, JavaScript, ReactJS
